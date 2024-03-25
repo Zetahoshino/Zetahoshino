@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zetahoshino
+- 👋 Hi, I’m @0xZeta
 - 👀 I’m interested in VAPT
 - 🌱 I’m currently learning Python,C,JS
 - 💞️ I’m looking to collaborate on ...
